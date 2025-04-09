@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//linnovatetech.github.io/MainBussines/static/css/main.83e3d504.css",
+    "main.js": "//linnovatetech.github.io/MainBussines/static/js/main.1e683ace.js",
+    "index.html": "//linnovatetech.github.io/MainBussines/index.html",
+    "main.83e3d504.css.map": "//linnovatetech.github.io/MainBussines/static/css/main.83e3d504.css.map",
+    "main.1e683ace.js.map": "//linnovatetech.github.io/MainBussines/static/js/main.1e683ace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e3d504.css",
+    "static/js/main.1e683ace.js"
+  ]
+}
