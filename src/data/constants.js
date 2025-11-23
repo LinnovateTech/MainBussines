@@ -44,14 +44,14 @@ export const services = [
 export const projects = [
     {
         id: 3,
-        title: "Lading-Page | Starbucks",
-        date: "Abril 2023",
+        title: "E-commerce | BabyStyle",
+        date: "Outubro 2025",
         description:
-        "É uma aplicação web de uma LadingPage onde é inspirada na famosa cafeteria Starbucks.",
-        image: "./imagens/Starbucks.png",
-        tags: ["HTML","CSS","JavaScript"],
+        "Atuação especializada em gestão e operação de e-commerce na plataforma Shopify com modelo de dropshipping no nicho infantil.",
+        image: "imagens/BabyStyle.png",
+        tags: ["Shopify", "Dropshipping"],
         category: "web",
-        github: "https://github.com/AlissonLins/Starbucks-Lading-Page",
-        webapp: "https://alissonlins.github.io/Starbucks-Lading-Page/#",
+        github: "#",
+        webapp: "https://babystyleofficial.com",
     }
 ];
