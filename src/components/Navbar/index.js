@@ -27,6 +27,7 @@ const Navbar = () => {
                 <NavItems>
                     <NavLink onClick={() => handleLinkClick('sobre')}>Sobre nós</NavLink>
                     <NavLink onClick={() => handleLinkClick('servicos')}>Serviços</NavLink>
+                    <NavLink onClick={() => handleLinkClick('servicos')}>Experiencia</NavLink>
                     <NavLink onClick={() => handleLinkClick('projetos')}>Projetos</NavLink>
                     <NavLink onClick={() => handleLinkClick('contato')}>Contato</NavLink>
                 </NavItems>
@@ -34,6 +35,7 @@ const Navbar = () => {
                     <MobileMenu isOpen={isOpen}>
                         <MobileLink onClick={() => handleLinkClick('sobre')}>Sobre nós</MobileLink>
                         <MobileLink onClick={() => handleLinkClick('servicos')}>Serviço</MobileLink>
+                        <MobileLink onClick={() => handleLinkClick('servicos')}>Experiencia</MobileLink>
                         <MobileLink onClick={() => handleLinkClick('projetos')}>Projetos</MobileLink>
                         <MobileLink onClick={() => handleLinkClick('contato')}>Contato</MobileLink>
                     </MobileMenu>

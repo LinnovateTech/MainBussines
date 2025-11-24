@@ -12,6 +12,8 @@ import Projects from './components/Projetos/index.js';
 import ProjectDetails from "./components/ProjectDetails/index.js";
 import Contato from "./components/Contato/index.js";
 import Footer from "./components/Footer/index.js";
+import Experience from "./components/Experience/index.js";
+
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -39,6 +41,7 @@ function App() {
           <HeroSection />
           <Wrapper>
             <Serviços />
+            < Experience />
           </Wrapper>
           <Projects
             modalState={modalState}
